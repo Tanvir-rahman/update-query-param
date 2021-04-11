@@ -1,5 +1,5 @@
 /*!
- * does-property-exist <https://github.com/Tanvir-rahman/update-query-param>
+ * update-query-param <https://github.com/Tanvir-rahman/update-query-param>
  *
  * Copyright (c) 2021, Tanvir Rahman.
  * Released under the MIT License.
