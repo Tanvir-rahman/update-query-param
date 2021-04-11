@@ -1,6 +1,6 @@
 # update-query-param
 
-A [Node.js](https://nodejs.org/) module which update query param of url from location bar with given value.
+A [Node.js](https://nodejs.org/) module which update query param from url with given value.
 
 ## Installation
 
