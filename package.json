@@ -1,0 +1,24 @@
+{
+  "name": "update-query-param",
+  "version": "0.1.0",
+  "description": "To update query params from url",
+  "main": "index.js",
+  "keywords": [
+    "update-query-param",
+    "query",
+    "query-param",
+    "update-query-params",
+    "npm",
+    "yarn"
+  ],
+  "author": "Tanvir Rahman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanvir-rahman/update-query-param.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tanvir-rahman/update-query-param/issues"
+  },
+  "homepage": "https://github.com/Tanvir-rahman/update-query-param#readme"
+}
